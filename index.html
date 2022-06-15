@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="./styles.css">
+        <title>Form</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <h2>Create an account</h2>
+            </div>
+
+        <form id="form" class="form">
+            <div class="form-control">
+                <label for="username">Name</label>
+                <input type="text" id="username" placeholder="Enter your username" />
+                <i class="fas fa-exclamation-circle"></i>
+                <i class="fas fa-check-circle"></i>
+                <small>Error message!</small>
+            </div>
+
+            <div class="form-control">
+                <label for="email">Email</label>
+                <input type="text" id="email" placeholder="Type your email" />
+                <i class="fas fa-exclamation-circle"></i>
+                <i class="fas fa-check-circle"></i>
+                <small>Error message!</small>
+            </div>
+
+            <div class="form-control">
+                <label for="password">Password</label>
+                <input type="password" id="password" placeholder="Type your password" />
+                <i class="fas fa-exclamation-circle"></i>
+                <i class="fas fa-check-circle"></i>
+                <small>Error message!</small>
+            </div>
+
+            <div class="form-control">
+                <label for="password-confirmation">Password confirmation</label>
+                <input type="password" id="password-confirmation" placeholder="Type the password again" />
+                <i class="fas fa-exclamation-circle"></i>
+                <i class="fas fa-check-circle"></i>
+                <small>Error message!</small>
+            </div>
+
+            <button type="submit">Submit</button>
+        </form>
+        </div>
+        
+        <script src="https://kit.fontawesome.com/24464c3fbf.js" crossorigin="anonymous"></script>
+        <script src="./scripts.js"></script>
+    </body>
+</html>
