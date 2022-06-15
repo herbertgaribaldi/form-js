@@ -10,7 +10,7 @@
 
 :tv: 1. Fully functional; <br>
 :tv: 2. All mandatory fields; <br>
-:tv: 3. Notice for different passwords; <br>
+:tv: 3. Notice for different passwords. <br>
 
 ---
 
