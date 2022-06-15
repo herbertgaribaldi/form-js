@@ -8,9 +8,9 @@
 
 ## :bulb: Features
 
-:tv: 1. Fully functional; <br>
-:tv: 2. All mandatory fields; <br>
-:tv: 3. Notice for different passwords. <br>
+:white_check_mark: 1. Fully functional; <br>
+:white_check_mark: 2. All mandatory fields; <br>
+:white_check_mark: 3. Notice for different passwords. <br>
 
 ---
 
@@ -67,5 +67,3 @@ Clone the repo in your terminal writting:
 ---
 
 #### Or visit ## link do github pages ## to test!
-
----
