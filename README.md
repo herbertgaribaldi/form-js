@@ -16,9 +16,9 @@
 
 ## :hammer: Tech Stack
 
-**:ledger: JavaScript** <br>
-**:building_construction: HTML** <br>
-**:art: CSS** <br>
+**:ledger: JavaScript;** <br>
+**:building_construction: HTML;** <br>
+**:art: CSS.** <br>
 
 ---
 
