@@ -1,4 +1,4 @@
-# :memo::pencil: JavaScript form
+# :memo: JavaScript form
 
 ---
 
